@@ -1,4 +1,4 @@
-project "SFML-ImGui-Dock"
+project "SFML_ImGui_Dock"
     kind "StaticLib"
     language "C++"
     
