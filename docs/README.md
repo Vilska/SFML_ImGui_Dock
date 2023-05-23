@@ -20,7 +20,7 @@ Necessary files for creating the **SFML** backend implementation are forked from
 4. Add only this line to the file: `#include <backends/imgui_impl_sfml.cpp>`
 
 ### Usage
-Basically you need to include these main 3 header files to get things running:
+Basically you need to include these main 2 header files to get things running:
 ``` cpp
 #include <imgui.h>
 #include <backends/imgui_impl_sfml.h>
